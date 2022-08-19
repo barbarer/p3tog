@@ -17,20 +17,42 @@ Problems
    :toggle: lock
    :points: 10
 
+.. poll:: p3-toggle-poll-1-sq
+    :scale: 9
+
+    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> these problems? Please skip this question if you didn't use it.
+
 .. selectquestion:: p3-dict-to-list-parsons-tog-sq
    :fromid: dict_to_list_pilot, dict_to_list_pp_pilot
    :toggle: lock
    :points: 10
+
+.. poll:: p3-toggle-poll-2-sq
+    :scale: 9
+
+    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> these problems? Please skip this question if you didn't use it.
 
 .. selectquestion:: p3-has22-parsons-tog-sq
    :fromid: has22_Write, has22_Parsons-Version-A
    :toggle: lock
    :points: 10
 
+.. poll:: p3-toggle-poll-3-sq
+    :scale: 9
+
+    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> these problems? Please skip this question if you didn't use it.
+
+
 .. selectquestion:: p3-sum13-parsons-tog-sq
    :fromid: sum13_writecode_test_1_v2, sum13-Parsons-version-pilot
    :toggle: lock
    :points: 10
+
+.. poll:: p3-toggle-poll-4-sq
+    :scale: 9
+
+    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> these problems? Please skip this question if you didn't use it.
+
 
 Feedback
 ==================================
