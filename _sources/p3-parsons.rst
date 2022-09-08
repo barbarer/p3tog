@@ -1,10 +1,10 @@
 Practice
 -----------------------------------------------------
 
-Please answer the following problems to the best
-of your ability without any outside help. You can skip any question that you
-do not feel qualified to answer or stop working on question after you worked on it for
-about five minutes without solving it.
+Please answer
+the following problems to the best of your ability without any
+outside help. You can stop working on a problem after you worked
+on it for about five minutes without solving it.
 
 You can use the toggle at the top of each question to pop-up the equivalent mixed-up code
 problem to help you solve the write code problem.
