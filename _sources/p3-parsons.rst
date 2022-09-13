@@ -12,46 +12,47 @@ problem to help you solve the write code problem.
 Problems
 ==============
 
-.. selectquestion:: p3-get-middle-parsons-tog-sq
-   :fromid: get-middle-ac, get-middle-Parsons-Version-pilot
+.. selectquestion:: get-middle-p3-tog
+   :fromid: get-middle, get-middle-Parsons-Version-pilot
    :toggle: lock
    :points: 10
 
-.. poll:: p3-toggle-poll-1-sq
+.. poll:: toggle-poll-p3-tog-1
     :scale: 9
 
-    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> these problems? Please skip this question if you didn't use it.
+    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
-.. selectquestion:: p3-dict-to-list-parsons-tog-sq
-   :fromid: dict_to_list_pilot, dict_to_list_pp_pilot
+.. selectquestion:: list_loop_two_lists-p3-tog
+   :fromid: list_loop_two_lists, list_loop_two_lists_pp
    :toggle: lock
    :points: 10
 
-.. poll:: p3-toggle-poll-2-sq
+.. poll:: toggle-poll-p3-tog-2
     :scale: 9
 
-    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> these problems? Please skip this question if you didn't use it.
+    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
-.. selectquestion:: p3-has22-parsons-tog-sq
+
+.. selectquestion:: has22-p3-tog
    :fromid: has22_Write, has22_Parsons-Version-A
    :toggle: lock
    :points: 10
 
-.. poll:: p3-toggle-poll-3-sq
+.. poll:: toggle-poll-p3-tog-3
     :scale: 9
 
-    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> these problems? Please skip this question if you didn't use it.
+    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
 
-.. selectquestion:: p3-sum13-parsons-tog-sq
+.. selectquestion:: sum13-p3-tog
    :fromid: sum13_writecode_test_1_v2, sum13-Parsons-version-pilot
    :toggle: lock
    :points: 10
 
-.. poll:: p3-toggle-poll-4-sq
+.. poll:: toggle-poll-p3-tog-4
     :scale: 9
 
-    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> these problems? Please skip this question if you didn't use it.
+    From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
 
 
 Feedback
