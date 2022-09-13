@@ -9,20 +9,20 @@ on it for about five minutes without solving it.
 Problems
 ==============
 
-.. selectquestion:: iwgex1-p3-post-get-part-ac-tog
-   :fromid: get_part_ac
+.. selectquestion:: iwgex1-p3-post-1
+   :fromid: upper_center
    :points: 10
 
-.. selectquestion:: iwgex1-p3-post-get-city-state-tog
-   :fromid: get-city-state
-   :points: 10
-
-.. selectquestion:: iwgex1-p3-post-is-descending-tog
+.. selectquestion:: iwgex1-p3-post-2
    :fromid: prestest_is_ascending_ac-post
    :points: 10
 
-.. selectquestion:: iwgex1-p3-post-sum67-v2-tog
-   :fromid: sum67_fix
+.. selectquestion:: iwgex1-p3-post-3
+   :fromid: fuct_ac_ll_sum67_fix
+   :points: 10
+
+.. selectquestion:: iwgex1-p3-post-4
+   :fromid: lst_two_loop_post
    :points: 10
 
 Feedback
