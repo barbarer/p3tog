@@ -77,7 +77,7 @@ about the specified concept(s).
     :option_5: I am confident in my ability to use this concept in complex programs
     :results: instructor
 
-    Loops/Iteration like <code>for n in nums:</code> and <code>for i in range(4):</code>
+    Loops/Iteration like <code>for n in nums:</code> and <code>for i in range(4):</code>.
 
 .. poll:: p3-prog-se-cond-8
     :option_1: I am unfamiliar with this concept
@@ -87,7 +87,7 @@ about the specified concept(s).
     :option_5: I am confident in my ability to use this concept in complex programs
     :results: instructor
 
-    Conditionals/Selection Statements like <code>if x < 3:</code>
+    Conditionals/Selection Statements like <code>if x < 3:</code>.
 
 .. poll:: p3-prog-se-func-9
     :option_1: I am unfamiliar with this concept
@@ -97,7 +97,7 @@ about the specified concept(s).
     :option_5: I am confident in my ability to use this concept in complex programs
     :results: instructor
 
-    Functions like <code>def get_odd(nums):</code>
+    Functions like <code>def get_odd(nums):</code>.
 
 .. poll:: p3-prog-se-list-dic-10
     :option_1: I am unfamiliar with this concept
@@ -107,7 +107,7 @@ about the specified concept(s).
     :option_5: I am confident in my ability to use this concept in complex programs
     :results: instructor
 
-    Lists like <code>a = ["red", "green"]</code>
+    Lists like <code>a = ["red", "green"]</code>.
 
 Feedback
 ==================================
