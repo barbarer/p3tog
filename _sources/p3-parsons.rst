@@ -14,7 +14,7 @@ problem to help you solve the write code problem.
    :toggle: lock
    :points: 10
 
-.. poll:: fl-toggle-poll-1
+.. poll:: poll-1-tog-p3
     :scale: 9
 
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
@@ -24,7 +24,7 @@ problem to help you solve the write code problem.
    :toggle: lock
    :points: 10
 
-.. poll:: fl-toggle-poll-2
+.. poll:: poll-2-tog-p3
     :scale: 9
 
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
@@ -35,7 +35,7 @@ problem to help you solve the write code problem.
    :toggle: lock
    :points: 10
 
-.. poll:: fl-toggle-poll-3
+.. poll:: poll-3-tog-p3
     :scale: 9
 
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
@@ -46,7 +46,7 @@ problem to help you solve the write code problem.
    :toggle: lock
    :points: 10
 
-.. poll:: fl-toggle-poll-4
+.. poll:: poll-4-tog-p3
     :scale: 9
 
     From 1-lowest to 9-highest, how useful was the Parsons problem in helping you <b>solve</b> this problem? Please skip this question if you didn't use it.
