@@ -1,27 +1,27 @@
-Practice
+Practice Problems
 -----------------------------------------------------
 
-Please answer the following problems to the best
-of your ability without any outside help. You can skip any question that you
-do not feel qualified to answer or stop working on question after you worked on it for
-about five minutes without solving it.
+Please answer
+the following problems to the best of your ability without any
+outside help. You can stop working on a problem after you worked
+on it for about five minutes without solving it.
 
 Problems
 ==============
-.. selectquestion:: get-middle-p3-write
-   :fromid: get-middle
+
+.. selectquestion:: p3-get-middle-write-tog-sq
+   :fromid: get-middle-ac
    :points: 10
 
-
-.. selectquestion:: list_loop_two_lists-p3-write
-   :fromid: list_loop_two_lists
+.. selectquestion:: p3-dict-to-list-write-tog-sq
+   :fromid: dict_to_list_pilot
    :points: 10
 
-.. selectquestion:: has22-p3-write
+.. selectquestion:: p3-has22-write-tog-sq
    :fromid: has22_Write
    :points: 10
 
-.. selectquestion:: sum13-p3-write
+.. selectquestion:: p3-sum13-write-tog-sq
    :fromid: sum13_writecode_test_1_v2
    :points: 10
 
