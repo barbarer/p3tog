@@ -100,14 +100,14 @@ about the specified concept(s).
     Functions like <code>def get_odd(nums):</code>
 
 .. poll:: p3-prog-se-list-dic-10
-    :option_1: I am unfamiliar with this concept
-    :option_2: I know what it means, but have not used it in a program
-    :option_3: I have used this concept in a program, but am not confident about my ability to use it
-    :option_4: I am confident in my ability to use this concept in simple programs
-    :option_5: I am confident in my ability to use this concept in complex programs
+    :option_1: I am unfamiliar with these concepts
+    :option_2: I know what they mean, but have not used them in a program
+    :option_3: I have used these concepts in a program, but am not confident about my ability to use them
+    :option_4: I am confident in my ability to use these concepts in simple programs
+    :option_5: I am confident in my ability to use these concepts in complex programs
     :results: instructor
 
-    Lists like <code>a = ["red", "green"]</code>
+    Lists like <code>a = ["red", "green"]</code>.
 
 Feedback
 ==================================
@@ -120,7 +120,7 @@ What to do next
 ============================
 .. raw:: html
 
-    <p>Click on the following link to learn how to solve different types of problems in this ebook : <b><a id="p3-intro"><font size="+2">Introduction to Problem Types</font></a></b></p>
+    <p>Click on the following link to learn how to solve different types of problems in this ebook : <b><a id="p3-intro"><font size="+2">Introduction</font></a></b></p>
 
 .. raw:: html
 
