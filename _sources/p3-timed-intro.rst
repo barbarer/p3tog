@@ -52,7 +52,7 @@ Click the start button to take the practice timed exam.
         x = 3 + 4
         print(x)
 
-   .. mchoice:: timed_intro_q2_str_upper_p3_tog
+   .. mchoice:: timed_intro_q2_str_upper_p3tog
       :practice: T
       :answer_a: hi there
       :answer_b: Hi There
